@@ -1,1 +1,1 @@
-# learn-git
+This is project and files descriptions
